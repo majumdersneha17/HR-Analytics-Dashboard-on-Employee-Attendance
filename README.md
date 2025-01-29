@@ -63,6 +63,8 @@ Time slicers for month-based filtering.
 
 Detailed tables and KPIs for granular reporting.
 
+Conditional Formatting to highlight extreme values in Red or Green 
+
 **Dynamic Design Elements:**
 
 Navigation buttons for a seamless user experience.
@@ -91,4 +93,6 @@ Hover over visual elements to view detailed tooltips.
 💡 **Conclusion**
 
 This project showcases how automated data preparation and interactive dashboards can transform HR data into meaningful insights, enabling smarter decision-making and optimized workforce management.
+
+**#Datasource** -CODEBASICS website
 
