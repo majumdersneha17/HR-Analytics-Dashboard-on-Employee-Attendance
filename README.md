@@ -96,9 +96,11 @@ This project showcases how automated data preparation and interactive dashboards
 
 **#Datasource** -CODEBASICS website
 
-<img width="595" alt="image" src="https://github.com/user-attachments/assets/b6066b9e-8005-43aa-8f28-ff33372606aa" />
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/2b3743d4-a612-4589-9a69-d01f871b4d20" />
+
 
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/43891e14-bea2-4b3f-8d45-77f30569b60a" />
+
 
 <img width="260" alt="image" src="https://github.com/user-attachments/assets/6c702d6b-81f3-4c86-a85a-d6c7d3ee1f0d" />
 
