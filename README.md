@@ -95,6 +95,7 @@ Hover over visual elements to view detailed tooltips.
 This project showcases how automated data preparation and interactive dashboards can transform HR data into meaningful insights, enabling smarter decision-making and optimized workforce management.
 
 **#Datasource** -CODEBASICS website
+### Power BI LIVE Report --> https://tinyurl.com/3svazwxj
 
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/2b3743d4-a612-4589-9a69-d01f871b4d20" />
 
